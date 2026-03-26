@@ -1,69 +1,108 @@
 <div align="center">
 
-```
- ██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗
- ██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║
- ███████║███████║██████╔╝███████╗███████║
- ██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║
- ██║  ██║██║  ██║██║  ██║███████║██║  ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Harsh&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=building%20things%20that%20matter&descSize=18&descAlignY=58&descColor=aaaacc&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Backend+Developer+in+the+Making+%F0%9F%9A%80;I+stargaze+and+debug+%E2%80%94+same+thing;Currently+somewhere+between+SQL+%26+MongoDB" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9D7BEA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;C%2B%2B+Systems+Programmer;Astrophysics+Enthusiast;Always+building+something" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 </div>
 
 ---
 
-### `$ whoami`
+<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D7BEA&icon_color=9D7BEA&text_color=c9d1d9" />
 
-```js
-const harsh = {
-  role      : "B.Tech CSE Student",
-  currently : "Building full-stack projects · Node.js + Express",
-  interests : ["Backend Dev", "Competitive Programming", "Astrophysics"],
-  fun_fact  : "I debug code and stargaze — both involve staring into the unknown."
-};
-```
+### 👨‍💻 About Me
 
----
+- 🛠️ Currently working on a few projects across systems & full-stack 
+- 📚 Learning path: `JS` →`React`→ `Node/Express` → `SQL` → `MongoDB` → `Auth`
+- 🌌 Deep interest in **astrophysics** — next solo project is a space observation journal
+- ⚡ I write C++ for fun and call it competitive programming
 
-### `$ ls ./tech-stack`
-
-| Layer | Technologies |
-|-------|-------------|
-| **Languages** | ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black) |
+<br clear="right"/>
 
 ---
 
-### `$ cat mission-log.txt`
+### 🛠️ Tech Stack
 
-```
- [ACTIVE]   Airbnb Clone ········· Node / Express / EJS / Tailwind / MVC  →  live on Render
- [ACTIVE]   Community Era ········ MERN civic platform  →  deployed & live
- [INCOMING] Cosmolog ············· Space observation journal · REST API · Auth · Public profiles
-```
+<div align="center">
+
+**Languages**
+
+[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,python,html,css&theme=dark)](https://skillicons.dev)
+
+**Frontend & Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
+
+**Tools & Infra**
+
+[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
-### `$ htop  # learning progress`
+### 🚀 Projects
+
+<div align="center">
+
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| 🛰️ **Project AETHER** | Autonomous satellite constellation manager — 50+ satellites, 5K+ debris objects, real-time orbital mechanics | `C++` `Python` `Node.js` `CesiumJS` `Docker` |
+| 🌿 **EchoSense** | Real-time biodiversity monitoring via ambient audio — detects birds, bats, insects, and chainsaws | `C++` `FastAPI` `ESP32` `MQTT` `SQLite` |
+| 🏠 **Airbnb Clone** | Full-stack property listing app — solo built and deployed | `Node.js` `Express` `EJS` `Tailwind` `MongoDB` |
+| 🏙️ **Community Era** | Civic infrastructure reporting platform — pothole reporting, map view, admin dashboard | `Node.js` `Express` `MongoDB` `Render` |
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshcodes04&theme=tokyonight&hide_border=true&background=0d1117&ring=9D7BEA&fire=9D7BEA&currStreakLabel=9D7BEA" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshcodes04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D7BEA&text_color=c9d1d9" width="40%" />
+
+</div>
+
+---
+
+
+### 🌱 Currently Learning
 
 ```
-Node.js + Express  [██████████████████░░]  90%   ✓ solid
-React              [████████████████░░░░]  80%   ✓ revision mode
-SQL                [████████████░░░░░░░░]  60%   ↑ active
-MongoDB            [█████████░░░░░░░░░░░]  45%   ↑ active
-Auth               [████░░░░░░░░░░░░░░░░]  20%   ○ up next
+📦 MongoDB & Mongoose
+   ├── Native driver ✅
+   ├── Mongoose schemas & models ← here
+   └── Auth (JWT / sessions) → next
 ```
 
 ---
 
 <div align="center">
 
-*"The cosmos is all that is, or ever was, or ever will be — and so is the call stack."*
+### 💬 About Me in Commits
+
+```
+git log --oneline --author="Harsh"
+
+a3f91c2  built orbital mechanics engine (somehow)
+7b2e4d1  wired up express routes correctly (third attempt)
+c91a830  understood mongoose populate() finally
+2f7d113  deployed to render at 1am, it worked
+0e4c721  stared at the stars, got a project idea
+```
 
 </div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
