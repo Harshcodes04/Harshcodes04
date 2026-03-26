@@ -16,7 +16,7 @@
 
 ---
 
-<img align="right" width="360" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D7BEA&icon_color=9D7BEA&text_color=c9d1d9" />
+
 
 ### 👨‍💻 About Me
 
