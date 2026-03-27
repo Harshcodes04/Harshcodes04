@@ -65,10 +65,15 @@
 ---
 
 ### 📊 GitHub Stats
-
+ 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshcodes04&theme=tokyonight&hide_border=true&background=0d1117&ring=9D7BEA&fire=9D7BEA&currStreakLabel=9D7BEA" width="48%" />
-
+ 
+<img src="https://streak-stats.demolab.com/?user=Harshcodes04&theme=tokyonight&hide_border=true&background=0d1117&ring=9D7BEA&fire=9D7BEA&currStreakLabel=9D7BEA" width="48%" />
+ 
+<img src="https://github-readme-stats.vercel.app/api?username=Harshcodes04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D7BEA&icon_color=9D7BEA&text_color=ffffff&rank_icon=github" width="48%" />
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshcodes04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D7BEA&text_color=ffffff&langs_count=8" width="40%" />
+ 
 </div>
 
 ---
