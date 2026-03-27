@@ -70,12 +70,17 @@
  
 <img src="https://streak-stats.demolab.com/?user=Harshcodes04&theme=tokyonight&hide_border=true&background=0d1117&ring=9D7BEA&fire=9D7BEA&currStreakLabel=9D7BEA" width="48%" />
  
-<img src="https://github-readme-stats.vercel.app/api?username=Harshcodes04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D7BEA&icon_color=9D7BEA&text_color=ffffff&rank_icon=github" width="48%" />
+<br/><br/>
  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshcodes04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9D7BEA&text_color=ffffff&langs_count=8" width="40%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshcodes04&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Harshcodes04&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Harshcodes04&theme=tokyonight" width="32%" />
+ 
+<br/>
+ 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshcodes04&bg_color=0d1117&color=9D7BEA&line=9D7BEA&point=ffffff&area=true&area_color=302b63&hide_border=true" width="96%" />
  
 </div>
-
 ---
 
 
