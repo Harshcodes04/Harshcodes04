@@ -8,9 +8,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitjantwal)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshitjantwal1804@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Harshcodes04)
 
 </div>
 
@@ -22,7 +22,6 @@
 
 - 🛠️ Currently working on a few projects across systems & full-stack 
 - 📚 Learning path: `JS` →`React`→ `Node/Express` → `SQL` → `MongoDB` → `Auth`
-- 🌌 Deep interest in **astrophysics** — next solo project is a space observation journal
 - ⚡ I write C++ for fun and call it competitive programming
 
 <br clear="right"/>
@@ -43,7 +42,7 @@
 
 **Tools & Infra**
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,vscode&theme=dark)](https://skillicons.dev)
 
 </div>
 
@@ -55,7 +54,7 @@
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| 🛰️ **Project AETHER** | Autonomous satellite constellation manager — 50+ satellites, 5K+ debris objects, real-time orbital mechanics | `C++` `Python` `Node.js` `CesiumJS` `Docker` |
+| 🛰️ **ACM** | Autonomous satellite constellation manager — 50+ satellites, 5K+ debris objects, real-time orbital mechanics | `C++` `Python` `Node.js` `CesiumJS` `Docker` |
 | 🌿 **EchoSense** | Real-time biodiversity monitoring via ambient audio — detects birds, bats, insects, and chainsaws | `C++` `FastAPI` `ESP32` `MQTT` `SQLite` |
 | 🏠 **Airbnb Clone** | Full-stack property listing app — solo built and deployed | `Node.js` `Express` `EJS` `Tailwind` `MongoDB` |
 | 🏙️ **Community Era** | Civic infrastructure reporting platform — pothole reporting, map view, admin dashboard | `Node.js` `Express` `MongoDB` `Render` |
@@ -67,9 +66,6 @@
 ### 📊 GitHub Stats
  
 <div align="center">
- 
-<img src="https://streak-stats.demolab.com/?user=Harshcodes04&theme=tokyonight&hide_border=true&background=0d1117&ring=9D7BEA&fire=9D7BEA&currStreakLabel=9D7BEA" width="48%" />
- 
 <br/><br/>
  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Harshcodes04&theme=tokyonight" width="32%" />
