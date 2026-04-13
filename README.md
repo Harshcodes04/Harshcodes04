@@ -21,7 +21,6 @@
 ### 👨‍💻 About Me
 
 - 🛠️ Currently working on a few projects across systems & full-stack 
-- 📚 Learning path: `JS` →`React`→ `Node/Express` → `SQL` → `MongoDB` → `Auth`
 - ⚡ I write C++ for fun and call it competitive programming
 
 <br clear="right"/>
@@ -76,35 +75,6 @@
  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshcodes04&bg_color=0d1117&color=9D7BEA&line=9D7BEA&point=ffffff&area=true&area_color=302b63&hide_border=true" width="96%" />
  
-</div>
----
-
-
-### 🌱 Currently Learning
-
-```
-📦 MongoDB & Mongoose
-   ├── Native driver ✅
-   ├── Mongoose schemas & models ← here
-   └── Auth (JWT / sessions) → next
-```
-
----
-
-<div align="center">
-
-### 💬 About Me in Commits
-
-```
-git log --oneline --author="Harsh"
-
-a3f91c2  built orbital mechanics engine (somehow)
-7b2e4d1  wired up express routes correctly (third attempt)
-c91a830  understood mongoose populate() finally
-2f7d113  deployed to render at 1am, it worked
-0e4c721  stared at the stars, got a project idea
-```
-
 </div>
 
 ---
