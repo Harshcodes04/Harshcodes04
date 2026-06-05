@@ -21,7 +21,7 @@
 
 ### 👨‍💻 About Me
 
-- 🌌 Building **Cosmovoid** — a full-stack space exploration platform for astronomers and enthusiasts
+- 🦖 Building **GenProp** — a full-stack app
 - 🛠️ Hacking across full-stack web dev and systems programming
 - ⚡ I write C++ for fun and call it competitive programming
 - 🎓 B.Tech CSE student
@@ -54,7 +54,7 @@ Tools & Infra
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| 🌌 **Cosmovoid** 🔨 | Space exploration platform — Live Space Feed (NASA APOD, NeoWs, EONET, SpaceX), Personal Space Journal, JWT auth with httpOnly cookies, TTL caching, and more in progress | `React` `Node.js` `Express` `MongoDB` `Tailwind` |
+| 🌌 **Cosmovoid**  | Space exploration platform — Live Space Feed (NASA APOD, NeoWs, EONET, SpaceX), Personal Space Journal, JWT auth with httpOnly cookies, TTL caching, and more in progress | `React` `Node.js` `Express` `MongoDB` `Tailwind` |
 | 🛰️ **NEXUS** | Autonomous satellite constellation manager — 50+ satellites, 5K+ debris objects, real-time orbital mechanics & conjunction avoidance | `C++` `Python` `Node.js` `CesiumJS` `Docker` |
 | 🌿 **EchoSense** | Real-time biodiversity monitoring via ambient audio — detects birds, bats, insects, and chainsaws at the edge | `C++` `FastAPI` `ESP32` `MQTT` `SQLite` |
 | 🏙️ **Community Era** | Civic infrastructure reporting platform — pothole reporting, map view, admin dashboard | `Node.js` `Express` `MongoDB` `Render` |
@@ -67,8 +67,8 @@ Tools & Infra
 
 <div align="center">
 
-![Currently Working On](https://img.shields.io/badge/🔨%20Working%20On-Cosmovoid%20%7C%20GitWhy-9D7BEA?style=for-the-badge&labelColor=1a1a2e)
-![Currently Learning](https://img.shields.io/badge/📖%20Learning-TypeScript%20%7C%20System%20Design-302b63?style=for-the-badge&labelColor=1a1a2e)
+![Currently Working On](https://img.shields.io/badge/🔨%20Working%20On-GenProp%20%7C%20GitWhy-9D7BEA?style=for-the-badge&labelColor=1a1a2e)
+![Currently Learning](https://img.shields.io/badge/📖%20Learning-TypeScript%20%7C%20-302b63?style=for-the-badge&labelColor=1a1a2e)
 
 <br/>
 
