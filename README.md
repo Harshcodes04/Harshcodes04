@@ -1,81 +1,52 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Harsh&fontSize=90&fontColor=ffffff&fontAlignY=36&desc=building%20things%20that%20matter&descSize=20&descAlignY=58&descColor=aaaacc&animation=fadeIn" width="100%"/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9D7BEA&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;C%2B%2B+Systems+Programmer;Space+%26+Astrophysics+Enthusiast;Always+building+something" alt="Typing SVG" />
-</a>
-<br/>
-<div align="center">
 
-<a href="https://linkedin.com/in/harshitjantwal">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:harshitjantwal1804@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/Harshcodes04">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-</div>
-
-### 👨‍💻 About Me
-
-- 🦖 Building **GenProp** — a full-stack app
-- 🛠️ Hacking across full-stack web dev and systems programming
-- ⚡ I write C++ for fun and call it competitive programming
-- 🎓 B.Tech CSE student
-
----
-
-### 🛠️ Tech Stack
-
-<div align="center">
-
-Languages
-
-[![My Skills](https://skillicons.dev/icons?i=js,cpp,c,python,html,css&theme=dark)](https://skillicons.dev)
-
-Frontend & Backend
-
-[![My Skills](https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb&theme=dark)](https://skillicons.dev)
-
-Tools & Infra
-
-[![My Skills](https://skillicons.dev/icons?i=git,docker,vscode&theme=dark)](https://skillicons.dev)
-
-</div>
-
----
-
-### 🚀 Projects
-
-<div align="center">
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| 🌌 **Cosmovoid**  | Space exploration platform — Live Space Feed (NASA APOD, NeoWs, EONET, SpaceX), Personal Space Journal, JWT auth with httpOnly cookies, TTL caching, and more in progress | `React` `Node.js` `Express` `MongoDB` `Tailwind` |
-| 🛰️ **NEXUS** | Autonomous satellite constellation manager — 50+ satellites, 5K+ debris objects, real-time orbital mechanics & conjunction avoidance | `C++` `Python` `Node.js` `CesiumJS` `Docker` |
-| 🌿 **EchoSense** | Real-time biodiversity monitoring via ambient audio — detects birds, bats, insects, and chainsaws at the edge | `C++` `FastAPI` `ESP32` `MQTT` `SQLite` |
-| 🏙️ **Community Era** | Civic infrastructure reporting platform — pothole reporting, map view, admin dashboard | `Node.js` `Express` `MongoDB` `Render` |
-
-</div>
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Currently Working On](https://img.shields.io/badge/🔨%20Working%20On-GenProp%20%7C%20GitWhy-9D7BEA?style=for-the-badge&labelColor=1a1a2e)
-![Currently Learning](https://img.shields.io/badge/📖%20Learning-TypeScript%20%7C%20-302b63?style=for-the-badge&labelColor=1a1a2e)
+<img src="assets/header.svg" alt="Harshit Jantwal — B.Tech CSE, full-stack & systems" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshcodes04&bg_color=0d1117&color=9D7BEA&line=9D7BEA&point=ffffff&area=true&area_color=302b63&hide_border=true" width="96%" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitjantwal)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:harshitjantwal1804@gmail.com)
+![Profile views](https://komarev.com/ghpvc/?username=Harshcodes04&color=38bdf8&style=flat-square&label=views)
 
 </div>
 
----
+## whoami
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+I'm a B.Tech CSE student who mostly builds two kinds of things: **web apps** and **anything involving orbits**. Satellite simulation, debris tracking, mission-control dashboards — it started as a side interest and quietly became most of my GitHub.
+
+Comfortable across the stack, happiest somewhere near the systems layer. Currently learning **TypeScript** and looking for open source to contribute to.
+
+## Stack
+
+<div align="center">
+
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,ts,js,html,css&theme=dark)](https://skillicons.dev)
+
+[![Web](https://skillicons.dev/icons?i=react,nodejs,express,tailwind,mongodb&theme=dark)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman&theme=dark)](https://skillicons.dev)
+
+![NumPy](https://img.shields.io/badge/NumPy-4d77cf?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv&logoColor=white)
+
+</div>
+
+## Things I've built
+
+**[NEXUS](https://github.com/Harshcodes04/NEXUS)** — Mission-control platform for satellite constellations. Orbital propagation, collision avoidance, live telemetry. `JavaScript`
+
+**[Debris-Detection](https://github.com/Harshcodes04/Debris-Detection)** — Orbital debris detection pipeline. `Python`
+
+**[cosmovoid](https://github.com/Harshcodes04/cosmovoid)** — A single place for space enthusiasts and educators instead of ten scattered ones. `JavaScript`
+
+**[PrepWise](https://github.com/Harshcodes04/PrepWise)** — Technical interview prep that generates questions tailored to you. `TypeScript`
+
+**[community-era](https://github.com/Harshcodes04/community-era)** — Civic issue reporting, starting with potholes. `JavaScript`
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Harshcodes04&theme=dark&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=8B949E&sideLabels=8B949E&dates=6E7681" alt="contribution streak" />
+
+</div>
